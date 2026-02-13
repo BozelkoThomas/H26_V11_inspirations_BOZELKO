@@ -2,20 +2,20 @@
 
 IMAGE
 
-> Affiche de l'exposition
+> Moi devant l'affiche de l'exposition
  
 **Exposition temporaire présentée à la Galerie de l'Université de Montréal et visitée le 30 janvier 2026.**  
 
 IMAGE
 
-> Moi devant l'entrée de l'édifice
+> Moi devant l'entrée de l'exposition
 
 
 ## *Terre commune*
 
 IMAGE
 
-> Vue d'ensemble du dispositif
+> Vue d'ensemble de *Terre commune*
 
 Le dispositif *Terre commune* a été réalisé par **Marion Scheider** en 2025.
 
@@ -24,11 +24,11 @@ Le dispositif *Terre commune* a été réalisé par **Marion Scheider** en 2025.
 
 *Terre commune* explore les liens entre l'humain, la machine et la nature. **Marion Scheider** a utilisé des photos de sols forestiers, prises dans les Laurentides, pour entraîner une IA à générer de nouvelles images à partir de ces données. 
 
-Pendant l'exposition, des images générées en temps réel sont projetées sur un mur de la galerie. La projection est directement influencée par l'activité cérébrale liée à la relaxation des personnes qui expérimentent le dispositif. L'idée est de connecter l'utilisateur à la fois avec avec la machine et avec la nature.
+Pendant l'exposition, des images générées en temps réel sont projetées sur un mur de la galerie. La projection est directement influencée par l'activité cérébrale liée au calme des personnes qui expérimentent le dispositif. L'idée est de connecter l'utilisateur à la fois avec avec la machine et avec la nature. Le « cerveau » du disposif (l'ordinateur) est situé sous le banc, ce qui renforce cette connexion une fois l'utilisateur assis.
 
 IMAGE
 
-> Cartel et texte explicatif
+> Texte explicatif de *Terre commune*
 
 
 ### Type d'installation
@@ -39,44 +39,75 @@ Les utilisateurs sont invités à porter un casque qui capte les ondes cérébra
 
 IMAGE
 
-> Vue d'ensemble
+> Vue d'ensemble de l'exposition
 
 
 ### Fonction du dispositif
 
-Le dispositif sert à créer une interaction entre les ondes cérébrales des utilisateurs et la machine. Il cherche à montrer une facette plus collaborative de l'intelligence artificielle.
+Le dispositif sert à créer une interaction entre les ondes cérébrales des utilisateurs et la machine. Il cherche à montrer une facette plus collaborative et positive de l'intelligence artificielle.
 
 ### Mise en espace
 
-Le dispositif est installé près de l'entrée, ce qui en fait la première oeuvre de l'exposition. On y retrouve un banc placé face au mur où la projection est présentée. Un écran affiche également l'activité cérébrale de l'utilisateur en temps réel, ce qui permet de visualiser les variations des ondes mesurées.
+Le dispositif est installé près de l'entrée, ce qui en fait la première oeuvre de l'exposition. On y trouve un banc placé face au mur où la projection est présentée. Un écran affiche également l'activité cérébrale de l'utilisateur en temps réel, ce qui permet de visualiser les variations des ondes mesurées.
 
 IMAGE
 
-> Croquis vu de dessus
+> Croquis de l'exposition vu de dessus
 
-> Croquis vu de face
+IMAGE
+
+> Croquis de *Terre commune* vu de face
 
 
 ### Composantes et techniques
 
-(Parties composantes du dispositif)
+Le dispositif est composé d'un ordinateur situé sous le banc en verre, relié à un casque EEG ainsi qu'à un écran permettant de visualiser les ondes. Les variations de celles-ci influencent la création en temps réel des images, qui sont projetées sur le mur grâce à un vidéoprojecteur.
+
+IMAGE
+
+> Ordinateur sous le banc en verre
+
+IMAGE
+
+> Casque EEG pour la détection des ondes
+
+IMAGE
+
+> Écran pour visualiser les ondes
+
+IMAGE
+
+> Vidéoprojecteur pour afficher les images
 
 
 ### Éléments nécessaires à la mise en exposition
 
-(Éclairage, mur et banc)
+Comme mentionné plus haut, il faut un banc et un projecteur pour le dispositif. Un éclairage dirigé vers le banc met l'emphase sur la personne qui expérimente l'installation.
+
+IMAGE
+
+> Éclairage du dispositif
 
 
 ### Expérience vécue
 
-(Parcours du visiteur ou gestes de l'interacteur)
+Je me suis installé sur la banc et j'ai placé le casque sur mon front. Je pouvais voir plusieurs lignes représentant différentes ondes cérébrales, dont les ondes alpha, représentées par la ligne jaune. En temps normal, cette ligne bougeait rapidement, alors que lorsque j'étais détendu, elle bougeait à peine. Normalement, ces variations devaient changer l'image générée, mais ce changement était tellement minime que je ne l'ai même pas remarqué.
+
+IMAGE
+
+> Écran avec les lignes vues de près
 
 
-### Ce qui m'a plu et m'a donné des idées
+### Ce qui m'a plu
 
+J'ai aimé l'idée de relier la technologie à un aspect humain et naturel. C'est une facette de l'IA que je n'aurais jamais imaginée. J'ai trouvé le concept fascinant, même si je pense qu'il aurait pu être exploité davantage.
 
-### Aspect que je ferai autrement
+### Ce que je ferai autrement
+
+J'aurais aimé que les variations d'images sont plus prononcées, afin de voir une réelle différence quand on met le bandeau et qu'on se détend. Cela renforcerait l'expérience.
 
 
 ### Références
 
+Photos prises par Thomas Bozelko (et Anne-Julie Labrie)  
+Site web de l'exposition : https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php
