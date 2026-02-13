@@ -48,7 +48,17 @@ Le dispositif sert à créer une interaction entre les ondes cérébrales des ut
 
 ### Mise en espace
 
-Le dispositif est installé près de l'entrée, ce qui en fait la première oeuvre de l'exposition. On y trouve un banc placé face au mur où la projection est présentée. Un écran affiche également l'activité cérébrale de l'utilisateur en temps réel, ce qui permet de visualiser les variations des ondes mesurées.
+Le dispositif est installé près de l'entrée, ce qui en fait la première oeuvre de l'exposition.
+
+On y trouve un banc placé face au mur où la projection est présentée. Un écran affiche également l'activité cérébrale de l'utilisateur en temps réel, ce qui permet de visualiser les variations des ondes mesurées.
+
+Dans le coin supérieur droit, on trouve deux sièges utilisés pour un autre dispositif, ainsi qu'une projection et un tableau.
+
+En continuant vers la gauche, on découvre une oeuvre composée d'un mur avec des accessoires et des écrans, ainsi que deux sièges permettant de regarder la projection située de l'autre côté.
+
+Un peu plus bas, on trouve trois écrans qui forment une demi-lune.
+
+Enfin, en bas, on trouve trois autres écrans qui affichent des vidéos différentes.
 
 ![Croquis de l'exposition vu de dessus](media/06_croquis_exposition_dessus.jpg)
 
