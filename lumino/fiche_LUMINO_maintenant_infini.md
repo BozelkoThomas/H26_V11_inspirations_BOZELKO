@@ -2,17 +2,17 @@
 
 **Exposition temporaire** présentée au **Centre Eaton de Montréal** et visitée le **20 février 2026**.
 
-IMAGE
+![Texte alternatif](media/image.jpeg)
 
 > Moi devant l’affiche de l’exposition
 
-IMAGE
+![Texte alternatif](media/image.jpeg)
 
 > Entrée du Centre Eaton de Montréal
 
 L’œuvre *Entre maintenant et l’infini* a été réalisée par **Jeremy Shantz** et était présentée du **27 novembre 2025** jusqu'au **8 mars 2026**.
 
-IMAGE
+![Texte alternatif](media/image.jpeg)
 
 > Vue d’ensemble de l’œuvre 
 
@@ -26,7 +26,7 @@ D’un côté, une tige transparente est éclairée par des lumières vertes, et
 
 De l’autre côté, une statue d’enfant bleu, sans tête, avec les mains et les pieds dorés, lève les bras vers une fleur métallique placée au-dessus d'elle.
 
-IMAGE
+![Texte alternatif](media/image.jpeg)
 
 > Texte explicatif de l’œuvre (ou cartel)
 
@@ -34,7 +34,7 @@ IMAGE
 
 C’est une installation immersive qui joue avec la perception visuelle du spectateur. Elle combine des miroirs, vitres semi-réfléchissantes, lumière DEL et sculptures afin de créer une illusion d’infini.
 
-IMAGE
+![Texte alternatif](media/image.jpeg)
 
 > Vue d’ensemble du lieu d’exposition
 
@@ -46,11 +46,11 @@ L’œuvre crée une illusion visuelle qui donne l’impression d’un couloir s
 
 L’œuvre est installée près d’une des entrées du Centre Eaton. Cet emplacement est stratégique puisque plusieurs personnes y circulent et ça permet d'exposer les deux côtés. Les passants peuvent donc y jeter un coup d’œil.
 
-IMAGE
+![Texte alternatif](media/image.jpeg)
 
 > Croquis de l’entrée vue de haut
 
-IMAGE
+![Texte alternatif](media/image.jpeg)
 
 > Croquis de l’œuvre vu de côté
 
@@ -74,6 +74,19 @@ De l’autre côté, une statue d’enfant bleu, sans tête, avec les mains et l
 
 Les lumières sont alimentées par des câbles qui passent dans le sol, cachés entre les deux structures.
 
+![Texte alternatif](media/image.jpeg)
+
+![Texte alternatif](media/image.jpeg)
+
+> Structure avec les fleurs
+
+![Texte alternatif](media/image.jpeg)
+
+> Structure avec la statue
+
+![Texte alternatif](media/image.jpeg)
+
+> Câbles entre les structures
 
 ## Éléments nécéssaires à la mise en exposition
 
@@ -84,6 +97,18 @@ L'installation nécessite :
 - une barrière pour protéger l'œuvre,
 
 - une affiche posée sur une base.
+
+![Texte alternatif](media/image.jpeg)
+
+> Éclairage du Centre Eaton
+
+![Texte alternatif](media/image.jpeg)
+
+> Barrière autour de l'œuvre
+
+![Texte alternatif](media/image.jpeg)
+
+> Affiche de l'exposition
 
 ## Expérience vécue
 
@@ -99,5 +124,5 @@ Ce que j'ai moins aimé, c'est que l'éclairage ambiant provoquait des reflets d
 
 # Références
 
-Toutes les photos ont été prises par moi-même (Thomas Bozelko).
+Toutes les photos ont été prises par moi-même (Thomas Bozelko).  
 Site web de l'exposition : https://www.luminomtl.com/fr/activites/oeuvres-interieures/entre-maintenant-et-l-infini
