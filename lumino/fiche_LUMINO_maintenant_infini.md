@@ -38,10 +38,6 @@ C’est une installation immersive qui joue avec la perception visuelle du spect
 
 > Vue d’ensemble du lieu d’exposition
 
-## Fonction de l’œuvre
-
-L’œuvre crée une illusion visuelle qui donne l’impression d’un couloir sans fin. Elle invite le spectateur à réfléchir à la relation entre le présent et l’infini.
-
 ## Mise en espace
 
 L’œuvre est installée près d’une des entrées du Centre Eaton. Cet emplacement est stratégique puisque plusieurs personnes y circulent et ça permet d'exposer les deux côtés. Les passants peuvent donc y jeter un coup d’œil.
