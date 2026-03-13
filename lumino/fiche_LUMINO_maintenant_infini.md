@@ -76,7 +76,7 @@ Les lumières sont alimentées par des câbles qui passent dans le sol, cachés 
 
 ![Structure avec les fleurs](media/structure_fleur.jpg)
 
-![Structure avec les fleurs](media/structure_fleur_proche.jpeg)
+![Structure avec les fleurs](media/structure_fleur_proche.jpg)
 
 > Structure avec les fleurs
 
@@ -112,7 +112,7 @@ L'installation nécessite :
 
 ## Expérience vécue
 
-En entrant dans le centre Eaton, j'ai vu l'œuvre qui était installée au milieu du couloir. En m'approchant, j'ai été surpris par l'effet de tunnel infini provoqué par les réflexions. C'était vraiment impressionnant, surtout que je ne comprenais pas encore comment ça fonctionnait. Après avoir fait mes recherches, j'ai compris que la vitre reflète seulement d'un côté, ce qui crée l'illusion lorsqu'elle est placée face au miroir.
+En entrant dans le centre Eaton, j'ai vu l'œuvre qui était installée au milieu du couloir. En m'approchant, j'ai été surpris par l'effet de tunnel infini provoqué par les réflexions. C'était impressionnant, surtout que je ne comprenais pas encore comment ça fonctionnait. Après avoir fait mes recherches, j'ai compris que la vitre reflète seulement d'un côté, ce qui crée l'illusion lorsqu'elle est placée face au miroir.
 
 De plus, au moment de ma visite, j'ai remarqué un homme qui se promenait autour de l'œuvre comme moi. Plus tard, en faisant une recherche sur l'artiste, j'ai réalisé que c'était lui! Dommage de ne pas avoir eu la chance de lui parler.
 
