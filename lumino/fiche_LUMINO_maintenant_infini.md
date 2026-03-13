@@ -2,19 +2,19 @@
 
 **Exposition temporaire** présentée au **Centre Eaton de Montréal** et visitée le **20 février 2026**.
 
-![Texte alternatif](media/image.jpeg)
+![Moi devant l’affiche de l’exposition](media/moi_devant_affiche.jpg)
 
 > Moi devant l’affiche de l’exposition
 
-![Texte alternatif](media/image.jpeg)
+![Entrée du Centre Eaton de Montréal](media/entree_centre_eaton.jpg)
 
 > Entrée du Centre Eaton de Montréal
 
 L’œuvre *Entre maintenant et l’infini* a été réalisée par **Jeremy Shantz** et était présentée du **27 novembre 2025** jusqu'au **8 mars 2026**.
 
-![Texte alternatif](media/image.jpeg)
+![Vue d’ensemble de l’œuvre](media/vue_ensemble_oeuvre.jpg)
 
-> Vue d’ensemble de l’œuvre 
+> Vue d’ensemble de l’œuvre (l'artiste est à gauche dans la photo)
 
 ## Description de l’œuvre
 
@@ -26,15 +26,15 @@ D’un côté, une tige transparente est éclairée par des lumières vertes, et
 
 De l’autre côté, une statue d’enfant bleu, sans tête, avec les mains et les pieds dorés, lève les bras vers une fleur métallique placée au-dessus d'elle.
 
-![Texte alternatif](media/image.jpeg)
+![Cartel de l’œuvre](media/cartel_oeuvre.jpg)
 
-> Texte explicatif de l’œuvre (ou cartel)
+> Cartel de l’œuvre
 
 ## Type d’installation
 
 C’est une installation immersive qui joue avec la perception visuelle du spectateur. Elle combine des miroirs, vitres semi-réfléchissantes, lumière DEL et sculptures afin de créer une illusion d’infini.
 
-![Texte alternatif](media/image.jpeg)
+![Vue d’ensemble du lieu d’exposition](media/vue_ensemble.jpg)
 
 > Vue d’ensemble du lieu d’exposition
 
@@ -46,11 +46,11 @@ L’œuvre crée une illusion visuelle qui donne l’impression d’un couloir s
 
 L’œuvre est installée près d’une des entrées du Centre Eaton. Cet emplacement est stratégique puisque plusieurs personnes y circulent et ça permet d'exposer les deux côtés. Les passants peuvent donc y jeter un coup d’œil.
 
-![Texte alternatif](media/image.jpeg)
+![Croquis de l’entrée vue de haut](media/croquis_vue_haut.jpg)
 
 > Croquis de l’entrée vue de haut
 
-![Texte alternatif](media/image.jpeg)
+![Croquis de l’œuvre vu de côté](media/croquis_vue_cote.jpg)
 
 > Croquis de l’œuvre vu de côté
 
@@ -74,17 +74,17 @@ De l’autre côté, une statue d’enfant bleu, sans tête, avec les mains et l
 
 Les lumières sont alimentées par des câbles qui passent dans le sol, cachés entre les deux structures.
 
-![Texte alternatif](media/image.jpeg)
+![Structure avec les fleurs](media/structure_fleur.jpg)
 
-![Texte alternatif](media/image.jpeg)
+![Structure avec les fleurs](media/structure_fleur_proche.jpeg)
 
 > Structure avec les fleurs
 
-![Texte alternatif](media/image.jpeg)
+![Structure avec la statue](media/structure_statue.jpg)
 
 > Structure avec la statue
 
-![Texte alternatif](media/image.jpeg)
+![Câbles entre les structures](media/cable_entre_structure.jpg)
 
 > Câbles entre les structures
 
@@ -98,15 +98,15 @@ L'installation nécessite :
 
 - une affiche posée sur une base.
 
-![Texte alternatif](media/image.jpeg)
+![Éclairage du Centre Eaton](media/eclairage_centre_eaton.jpg)
 
 > Éclairage du Centre Eaton
 
-![Texte alternatif](media/image.jpeg)
+![Barrière autour de l'œuvre](media/barriere_autour_oeuvre.jpg)
 
 > Barrière autour de l'œuvre
 
-![Texte alternatif](media/image.jpeg)
+![Affiche de l'exposition](media/affiche_lumino.jpg)
 
 > Affiche de l'exposition
 
