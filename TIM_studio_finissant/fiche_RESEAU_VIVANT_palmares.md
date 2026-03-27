@@ -9,7 +9,7 @@
 
 > Vue d'ensemble de Terminal (photo prise par Rosa-Lee Savoie)
 
-![Implantation de Terminal](media/implantation_terminal_github.jpeg)
+![Implantation de Terminal](media/implantation_terminal_github.jpg)
 
 > Implantation de Terminal (source : [Terminal_GitHub](https://pythons-5.github.io/Terminal/technique/diagrame2d3.png))
 
@@ -21,7 +21,7 @@
 
 > Vue d'ensemble de Mission Décollage (photo prise par Rosa-Lee Savoie)
 
-![Implantation de Mission Décollage](media/implantation_mission_github.jpeg)
+![Implantation de Mission Décollage](media/implantation_mission_github.jpg)
 
 > Implantation de Mission Décollage (source : [Mission_GitHub](https://o-i-g-n-o-n.github.io/Mission-decollage/medias/images/implantation.png))
 
@@ -33,7 +33,7 @@
 
 > Vue d'ensemble d'Arbre en face (photo prise par Rosa-Lee Savoie)
 
-![Implantation d'Arbre en face](media/implantation_arbre_en_face_github.jpeg)
+![Implantation d'Arbre en face](media/implantation_arbre_en_face_github.jpg)
 
 > Implantation d'Arbre en face (source : [Arbre_en_face_GitHub](https://github.com/user-attachments/assets/a38288bd-df49-4a2c-a91d-1658fbaf32a2))
 
@@ -45,9 +45,9 @@
 
 > Vue d'ensemble d'Océan rouge (photo prise par Rosa-Lee Savoie)
 
-![Implantation d'Océan rouge](media/implantation_ocean_rouge_github.jpeg)
+![Implantation d'Océan rouge](media/implantation_ocean_rouge_github.jpg)
 
-> Implantation d'ensemble d'Océan rouge (source : [Ocean_rouge_GitHub](https://deux-intelligence.github.io/deux-neurones/technique/plan_implantation_01.drawio.png))
+> Implantation d'Océan rouge (source : [Ocean_rouge_GitHub](https://deux-intelligence.github.io/deux-neurones/technique/plan_implantation_01.drawio.png))
 
 
 ## 5. Quand les yeux se croisent
@@ -57,6 +57,6 @@
 
 > Vue d'ensemble de Quand les yeux se croisent (photo prise par Rosa-Lee Savoie)
 
-![Implantation de Quand les yeux se croisent](media/implantation_quand_les_yeux_github.jpeg)
+![Implantation de Quand les yeux se croisent](media/implantation_quand_les_yeux_github.jpg)
 
 > Implantation de Quand les yeux se croisent (source : [Quand_les_yeux_GitHub](https://emersiaa.github.io/Quand-les-yeux-se-croisent/technique/plan_plantation_03.jpeg))
