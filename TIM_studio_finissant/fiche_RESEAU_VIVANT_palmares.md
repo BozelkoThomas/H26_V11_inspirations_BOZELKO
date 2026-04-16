@@ -35,6 +35,16 @@ Globalement, malgré certaines critiques, je trouve le jeu bien pensé et bien e
 
 > Implantation de Mission Décollage (source : [Mission_GitHub](https://o-i-g-n-o-n.github.io/Mission-decollage/medias/images/implantation.png))
 
+### Mon ressenti
+
+Avant d'essayer le jeu, j'avais une idée clair de son fonctionnement et il me semblait bien avancé. D'après la description des contrôles du jeu, j'ai compris que celui-ci avait été refléchi en profondeur.
+
+Lors de mon premier test, je n'ai pas été déçu, car l'expérience répondait bien à mes attentes. Par contre, le jeu est long et est complexe avec ses nombreuses commandes, ce qui peut rendre l'expérience exigeante et parfois faire décrocher les joueurs.
+
+Quand j'ai réesayer le jeu plus tard, j'ai remarqué que des indications avaient été ajoutées pour expliquer les contrôles. Sinon, l'expérience restait identique à la premiere fois, ce qui n'est pas surprenant puisqu'il était déjà bien développée.
+
+Globalement, le jeu est réussi dans son ensemble et propose une expérience immersive et originale. Cependant, la complexité des contrôles et le thème sur l'aérospatiale me donnaient personnellement moins envie de jouer.
+
 
 ## 3. Arbre en face
 **Créateurs : Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dube**
