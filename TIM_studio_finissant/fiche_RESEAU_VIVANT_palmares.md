@@ -15,7 +15,7 @@
 
 ### Mon ressenti
 
-Avant d'essayer le jeu, j'avais une impression globalement positive. La bande-annonce avait piqué ma curiosité et je trouvais l'esthétique pixelisée vraiment réussie.
+Avant d'essayer *Terminal*, j'avais une impression globalement positive. La bande-annonce avait piqué ma curiosité et je trouvais l'esthétique pixelisée vraiment réussie.
 
 Lors de mon premier test, j'ai réalisé que c'était un jeu coopératif, ce que je n'avais pas compris au départ. De plus, je n'arrivais pas à faire le lien entre l'expérience réelle et la mise en contexte proposée dans la description du jeu.
 
@@ -37,11 +37,11 @@ Globalement, malgré certaines critiques, je trouve le jeu bien pensé et bien e
 
 ### Mon ressenti
 
-Avant d'essayer le jeu, j'avais une idée clair de son fonctionnement et il me semblait bien avancé. D'après la description des contrôles du jeu, j'ai compris que celui-ci avait été refléchi en profondeur.
+Avant d'essayer *Mission Décollage*, j'avais une idée clair de son fonctionnement et il me semblait bien avancé. D'après la description des contrôles du jeu, j'ai compris que celui-ci avait été refléchi en profondeur.
 
 Lors de mon premier test, je n'ai pas été déçu, car l'expérience répondait bien à mes attentes. Par contre, le jeu est long et est complexe avec ses nombreuses commandes, ce qui peut rendre l'expérience exigeante et parfois faire décrocher les joueurs.
 
-Quand j'ai réesayer le jeu plus tard, j'ai remarqué que des indications avaient été ajoutées pour expliquer les contrôles. Sinon, l'expérience restait identique à la premiere fois, ce qui n'est pas surprenant puisqu'il était déjà bien développée.
+Quand j'ai réesayer le jeu plus tard, j'ai remarqué que des indications avaient été ajoutées pour expliquer les contrôles. Sinon, l'expérience restait identique à la première fois, ce qui n'est pas surprenant puisqu'elle était déjà bien développée.
 
 Globalement, le jeu est réussi dans son ensemble et propose une expérience immersive et originale. Cependant, la complexité des contrôles et le thème sur l'aérospatiale me donnaient personnellement moins envie d'y jouer.
 
@@ -79,6 +79,16 @@ Globalement, je suis mitigé face à cette expérience. Même si celle-ci est am
 
 > Implantation d'Océan rouge (source : [Ocean_rouge_GitHub](https://deux-intelligence.github.io/deux-neurones/technique/plan_implantation_01.drawio.png))
 
+### Mon ressenti
+
+Avant d'expérimenter *Océan rouge*, le principe du jeu ne me donnait pas vraiment envie et je le trouvais peu abouti. La bande-annonce ne présentait pas une expérience engageante ni d'objectifs précis.
+
+Lors de mon premier test, j'ai trouvé les contrôles simples et intuitifs (à l'exception d'un contrôle), mais j'avais l'impression de ne rien faire. Sans progression ni objectifs, il n'y avait pas vraiment de raison d'y jouer.
+
+Par contre, lors de mon deuxième essai, les contrôles étaient clairement indiqués et un objectif avait été ajouté. Il fallait maintenant récolter un certain nombre de déchets pour gagner la partie.
+
+Globalement, le jeu reste très simple, mais les améliorations ont contribué à donner un minimum de sens au projet. Le jeu pourrait être développer davantage pour offrir une vraie expérience.
+
 
 ## 5. Quand les yeux se croisent
 **Créatrices et créateur : Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif**
@@ -90,3 +100,13 @@ Globalement, je suis mitigé face à cette expérience. Même si celle-ci est am
 ![Implantation de Quand les yeux se croisent](media/implantation_quand_les_yeux_github.jpg)
 
 > Implantation de Quand les yeux se croisent (source : [Quand_les_yeux_GitHub](https://emersiaa.github.io/Quand-les-yeux-se-croisent/technique/plan_plantation_03.jpeg))
+
+### Mon ressenti
+
+Avant d'expérimenter *Quand les yeux se croisent*, j'ai eu l'impression que l'œuvre était complexe et ça m'intéressait. La bande-annonce ne donnait aucune information, mais laissait tout de même place à une certaine surprise.
+
+Lors de mon premier test, j'ai été surpris par l'installation, qui est presque une œuvre en soi avec les télévisions rétro et la décoration qui les accompagne. Par contre, j'ai trouvé l'expérience de se voir dans les écrans peu intéressante et même un peu dérangeante.
+
+Le deuxième test était similaire, car peu de choses semblaient avoir changé entre-temps, ce qui est dommage. L'installation restait essentiellement la même, ce qui laissait une impression de stagnation.
+
+Globalement, il ne se passe pas grand chose et l'interaction est très limitée, ce qui rend l'expérience peu engageante. Le concept pourrait être repensé, car il y aurait selon moi de la place pour une expérience plus immersive et interactive.
