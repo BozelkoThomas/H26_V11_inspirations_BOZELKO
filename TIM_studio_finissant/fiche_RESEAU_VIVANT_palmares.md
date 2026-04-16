@@ -43,7 +43,7 @@ Lors de mon premier test, je n'ai pas été déçu, car l'expérience répondait
 
 Quand j'ai réesayer le jeu plus tard, j'ai remarqué que des indications avaient été ajoutées pour expliquer les contrôles. Sinon, l'expérience restait identique à la premiere fois, ce qui n'est pas surprenant puisqu'il était déjà bien développée.
 
-Globalement, le jeu est réussi dans son ensemble et propose une expérience immersive et originale. Cependant, la complexité des contrôles et le thème sur l'aérospatiale me donnaient personnellement moins envie de jouer.
+Globalement, le jeu est réussi dans son ensemble et propose une expérience immersive et originale. Cependant, la complexité des contrôles et le thème sur l'aérospatiale me donnaient personnellement moins envie d'y jouer.
 
 
 ## 3. Arbre en face
@@ -56,6 +56,16 @@ Globalement, le jeu est réussi dans son ensemble et propose une expérience imm
 ![Implantation d'Arbre en face](media/implantation_arbre_en_face_github.jpg)
 
 > Implantation d'Arbre en face (source : [Arbre_en_face_GitHub](https://github.com/user-attachments/assets/a38288bd-df49-4a2c-a91d-1658fbaf32a2))
+
+### Mon ressenti
+
+Avant d'expérimenter *Arbre en face*, je ne comprenais pas totalement son utilité ni son fonctionnement. La bande-annonce était très comique, mais n'apportait pas vraiment d'informations claires.
+
+Lors de mon premier test, j'ai découvert le principe simple de l'œuvre, qui consiste à placer sa main sur une surface de projection et à la lever pour faire pousser des arbres virtuels accompagnés de sons comiques.
+
+Quand j'ai réessayer un autre jour, certaines fonctionnalités qui causaient des bugs avaient été retirées, tandis que d'autres avaient été ajoutées. Le principe et le côté comique sont restés les mêmes.
+
+Globalement, je suis mitigé face à cette expérience. Même si celle-ci est amusante et mémorable, le manque de clarté quand à l'intention m'a moins convaincu.
 
 
 ## 4. Océan rouge
