@@ -13,6 +13,16 @@
 
 > Implantation de Terminal (source : [Terminal_GitHub](https://pythons-5.github.io/Terminal/technique/diagrame2d3.png))
 
+### Mon ressenti
+
+Avant d'essayer le jeu, j'avais une impression globalement positive. La bande-annonce avait piqué ma curiosité et je trouvais l'esthétique pixelisée vraiment réussie.
+
+Lors de mon premier test, j'ai réalisé que c'était un jeu coopératif, ce que je n'avais pas compris au départ. De plus, je n'arrivais pas à faire le lien entre l'expérience réelle et la mise en contexte proposée dans la description du jeu.
+
+Par contre, lors de mon deuxième test, le problème de mise en contexte à été corrigé en l'affichant avant le commencement de la partie. C'est aussi à ce moment que j'ai remarqué un bug assez important qui nuisait à une partie de l'expérience.
+
+Globalement, malgré certaines critiques, je trouve le jeu bien pensé et bien exécuté. Même si le jeu est simple et ne réinvente pas la roue, il reste très efficace et amusant.
+
 
 ## 2. Mission Décollage
 **Créateurs : Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi**
