@@ -14,18 +14,27 @@ Le dispositif *Feu feu joli feu* a été conçu et réalisé par la firme **GSM 
 
 ### Description du dispositif
 
-*Feu feu joli feu* est une des installations interactives présentées dans l'exposition et qui a pour but de nous plonger dans l'univers des inuits. L'interacteur est invité à accomplir des tâches qui font parti du quotidien des habitants du grand nord. Dans cette installation en particulier, l'interacteur à la tâche de faire partir un feu. Il doit choisir le bon comburant et doit souffler sur le feu pour compléter la mission. Toutes les personnes participants à l'exposition est équipé d'une puce qui permet de garder un inventaire des missions réussi, mais également pour les complétés. Dans le cas de *Feu feu joli feu*, l'interacteur doit scanner sa puce pour débuter la quête, mais également pour confirmer que le feu est bien fonctionel pour compléter la quête.
+*Feu feu joli feu* est une des installations interactives présentées dans l'exposition et qui a pour but de nous plonger dans l'univers des inuits. L'interacteur est invité à accomplir des tâches qui font parti du quotidien des habitants du grand nord. Dans cette installation en particulier, l'interacteur à la tâche de faire partir un feu. Il doit choisir le bon comburant et doit souffler sur le feu pour compléter la mission. Toutes les personnes participants à l'exposition sont équipés d'une puce qui permet de garder un inventaire des missions réussi, mais également de les complétés. Dans le cas de *Feu feu joli feu*, l'interacteur doit scanner sa puce pour débuter la quête, mais également pour confirmer que le feu est bien fonctionel.
+
 
 ### Type d'installation
+
+C'est une installation interactive qui invite les interacteurs à accomplir des missions dans le thème de la culture inuit.
 
 
 ### Fonction du dispositif
 
+Le dispositif à comme fonction d'enseigner sur la culture inuit de manière ludique. L'exposition met de l'avant des personnes, des histoires et des techniques qui nous sont inconnus, mais nous invite à nous y intéressé à travers plein de dispositifs amusant. *Feu feu joli feu* est quand à lui pour éduquer sur la manière de partir un feu dans le grand nord avec plein d'informations complémentaires.
+
 
 ### Mise en espace
 
+Le dispositif est placé dans le coin supérieur gauche qui est opposé à l'entrée située dans le coin inférieur droit. Il est donc généralement plus expérimenté vers la fin de la visite après avoir déjà essayé tous les autres dispositif.
+
 
 ### Composantes et techniques
+
+
 
 
 ### Éléments nécessaires à la mise en exposition
