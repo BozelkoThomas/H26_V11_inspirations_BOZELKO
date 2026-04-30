@@ -110,3 +110,27 @@ Lors de mon premier test, j'ai été surpris par l'installation, qui est presque
 Le deuxième test était similaire, car peu de choses semblaient avoir changé entre-temps, ce qui est dommage. L'installation restait essentiellement la même, ce qui laissait une impression de stagnation.
 
 Globalement, il ne se passe pas grand chose et l'interaction est très limitée, ce qui rend l'expérience peu engageante. Le concept pourrait être repensé, car il y aurait selon moi de la place pour une expérience plus immersive et interactive.
+
+
+## Les 3 cours qui me semblent les plus incontournables pour réaliser ce type de projet
+
+### 1. Interactivité ludique
+
+Le cours d'interactivité ludique me semble essentiel, car il permet d'apprendre à concevoir des expériences interactives, notamment sous forme de jeux.
+
+### 2. Modélisation 3D
+
+Le cours de modélisation 3D est important puisqu'il permet de créer ses propres éléments visuels. Cela donne la possibilité de produire des objets et des environnements adaptés sans dépendre de ressources externes.
+
+### 3. Objets interactifs
+
+Le cours d'objets interactifs est essentiel pour comprendre comment fonctionnent les capteurs et les systèmes physiques (ex. : boutons), qui sont essentiels pour l'interactivité.
+
+
+## Une composante que je ne connaissais pas
+
+Dans l'installation *Symbiose*, un des éléments interactifs utilisait un capteur de rotation, ce que je n'avais jamais vu auparavant. Le capteur était caché sous la fiole et il permet de détecter l'orientation ou le mouvement d'un objet, qui est transformé en valeur numérique.
+
+J'ai trouvé le système intéressant, car il se démarquait des autres par cette petite touche d'interactivité qui sort d’un capteur de distance (LiDAR) ou de simples boutons.
+
+
