@@ -112,7 +112,7 @@ Le deuxième test était similaire, car peu de choses semblaient avoir changé e
 Globalement, il ne se passe pas grand chose et l'interaction est très limitée, ce qui rend l'expérience peu engageante. Le concept pourrait être repensé, car il y aurait selon moi de la place pour une expérience plus immersive et interactive.
 
 
-## Les 3 cours qui me semblent les plus incontournables pour réaliser ce type de projet
+## Les cours qui me semblent les plus incontournables pour réaliser ce type de projet
 
 ### 1. Interactivité ludique
 
@@ -127,10 +127,14 @@ Le cours de modélisation 3D est important puisqu'il permet de créer ses propre
 Le cours d'objets interactifs est essentiel pour comprendre comment fonctionnent les capteurs et les systèmes physiques (ex. : boutons), qui sont essentiels pour l'interactivité.
 
 
-## Une composante que je ne connaissais pas
+## Technique que je ne connaissais pas
 
-Dans l'installation *Symbiose*, un des éléments interactifs utilisait un capteur de rotation, ce que je n'avais jamais vu auparavant. Le capteur était caché sous la fiole et il permet de détecter l'orientation ou le mouvement d'un objet, qui est transformé en valeur numérique.
+Une technique que je ne connaissais pas est le système de détection de visage utilisé dans le projet Arbre en face, réalisé avec le logiciel TouchDesigner.
 
-J'ai trouvé le système intéressant, car il se démarquait des autres par cette petite touche d'interactivité qui sort d’un capteur de distance (LiDAR) ou de simples boutons.
+Dans cette installation, une caméra détecte automatiquement le visage des visiteurs. Lorsqu’un visage est repéré, une photo est prise et elle est enregistrée dans un dossier avec plein d’autres visages.
+
+Par la suite, lorsque les visiteurs interagissent avec l’installation, le système récupère ces images dans le dossier pour les afficher dans la projection.
+
+J’ai trouvé intéressant de voir comment des images capturées à l’avance peuvent être utilisées pour ajouter un peu d’humour, surtout quand on voit son visage sur la projection sans savoir comment elle a été prise.
 
 
