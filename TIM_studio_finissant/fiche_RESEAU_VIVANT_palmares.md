@@ -133,6 +133,14 @@ Une technique que je ne connaissais pas est le système de détection de visage 
 
 Dans cette installation, une caméra détecte automatiquement le visage des visiteurs. Lorsqu’un visage est repéré, une photo est prise et elle est enregistrée dans un dossier avec plein d’autres visages.
 
+![Système de détection faciale avec TouchDesigner](media/touchdesigner_arbre_en_face_github.webp)
+
+> Système de détection faciale avec TouchDesigner (source : [Arbre_en_face_Github](https://github.com/user-attachments/assets/5909ac9a-2e87-4c61-8f95-69ce5fba0927))
+
+![Dossier des visages photographiés](media/dossier_arbre_en_face_github.webp)
+
+> Dossier des visages photographiés (source : [Arbre_en_face_Github](https://github.com/user-attachments/assets/1710c7d3-4d27-4048-a458-84a3bd1ac588))
+
 Par la suite, lorsque les visiteurs interagissent avec l’installation, le système récupère ces images dans le dossier pour les afficher dans la projection.
 
 J’ai trouvé intéressant de voir comment des images capturées à l’avance peuvent être utilisées pour ajouter un peu d’humour, surtout quand on voit son visage sur la projection sans savoir comment elle a été prise.
