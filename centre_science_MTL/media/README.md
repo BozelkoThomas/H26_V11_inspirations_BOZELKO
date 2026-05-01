@@ -1,1 +1,1 @@
-**Dossier avec toutes les photos utilisées dans la fiche.**
+**Dossier avec toutes les images utilisées dans la fiche.**
