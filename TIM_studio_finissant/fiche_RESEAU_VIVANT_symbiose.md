@@ -4,7 +4,7 @@
 
 ![Moi devant l'affiche](media/moi_devant_affiche.jpg)
 
-> Théana Leurot, moi et Anne-Julie Labrie (de gauche à droite) devant l’affiche à l’entrée de l’exposition
+> Théana Leurot, moi et Anne-Julie Labrie devant l’affiche à l’entrée de l’exposition (photo prise par Anne-julie Labrie)
 
 
 
