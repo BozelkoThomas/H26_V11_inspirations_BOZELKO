@@ -16,4 +16,6 @@ En conclusion, la conférence était intéressante, car elle permettait de mieux
 
 ## Image de l'installation à propos du métro de Montréal
 
+![Image de l'installation du métro](dispositif_metro_musee.jpg)
+
 > Structure du métro présentée au Musée de l’ingéniosité J. Armand-Bombardier. On aperçoit un boîtier triangulaire contenant le dispositif interactif ajouté pour attirer l’attention des visiteurs. Source : [La Tribune](https://www.latribune.ca/actualites/actualites-locales/estrie-et-regions/2023/05/12/changement-de-garde-en-duo-au-musee-de-lingeniosite-j-a-bombardier-Q2S2RBFWPZETXFAU6JKCPGGJE4/)
