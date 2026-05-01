@@ -2,7 +2,7 @@
 
 **Exposition permanente présentée au Centre des sciences de Montréal et visitée le 1er avril 2026.**
 
-![](media/.jpg)
+![Moi devant l'affiche](media/moi_devant_affiche.jpg)
 
 > Anne-Julie Labrie, Théana Leurot et moi (de gauche à droite) devant l'affiche à l'entrée de l'exposition
 
@@ -11,7 +11,7 @@
 
 Le dispositif *Feu feu joli feu* a été conçu et réalisé par la firme **GSM Studios** et est présenté depuis le **1er mars 2026** dans le cadre de l'exposition *Nanualuk – Expédition Nordique*.
 
-![](media/.jpg)
+![Vue d'ensemble du dispositif](media/vue_ensemble_dispositif.jpg)
 
 > Vue d'ensemble du dispositif
 
@@ -24,11 +24,11 @@ L’interacteur est invité à accomplir des tâches qui font partie du quotidie
 
 Toutes les personnes participant à l'exposition sont équipées d'une puce qui permet de conserver un inventaire des badges obtenus lors des missions réussies, mais aussi de suivre leur progression. Dans le cas de *Feu feu joli feu*, l’interacteur doit scanner sa puce pour débuter la mission, puis à nouveau pour confirmer que le feu est bien allumé.
 
-![](media/.jpg)
+![Texte explicatif](media/texte_explicatif_anne-julie_labrie.jpg)
 
 > Texte explicatif du dispositif (photo prise par Anne-julie Labrie)
 
-![](media/.jpg)
+![Puce](media/puce_exposition.jpg)
 
 > Puce de l'interacteur
 
@@ -37,7 +37,7 @@ Toutes les personnes participant à l'exposition sont équipées d'une puce qui 
 
 C’est une installation interactive qui invite les visiteurs à accomplir des missions inspirées de la culture inuit.
 
-![](media/.jpg)
+![Vue d'ensemble de l'exposition](media/vue_ensemble_exposition.jpg)
 
 > Vue d'ensemble de l'exposition
 
@@ -78,11 +78,11 @@ La deuxième installation est composée d’une structure en bois en forme d’h
 
 Comme pour la première structure, les fils sont cachés à l’intérieur.
 
-![](media/.jpg)
+![Écran tactile](media/ecran_tactile.jpg)
 
 > Écran tactile
 
-![](media/.jpg)
+![Feu artificiel](media/feu_artificiel.jpg)
 
 > Feu artificiel
 
@@ -106,27 +106,27 @@ J’ai ensuite exploré plusieurs dispositifs interactifs avant d’arriver à c
 
 À la fin de la visite, j’ai déposé ma puce dans un bac afin d’obtenir un compte rendu des badges accumulés, ainsi qu’un profil décrivant le type de visiteur que j’étais selon les quêtes réalisées.
 
-![](media/.jpg)
+![Mission](media/mission_dispositif.jpg)
 
 > Mission affichée sur l'écran
 
-![](media/.jpg)
+![Étape 1](media/premiere_etape_mission.jpg)
 
 > Première étape du dispositif
 
-![](media/.jpg)
+![Étape 2](media/deuxieme_etape_mission.jpg)
 
 > Deuxième étape du dispositif
 
-![](media/.jpg)
+![Étape 3](media/troisieme_etape_mission.jpg)
 
 > Troisième étape du dispositif
 
-![](media/.jpg)
+![Résultat](media/resultat_mission.jpg)
 
 > Résultat de la mission
 
-![](media/.jpg)
+![Bac pour remettre la puce](media/fin_exposition.jpg)
 
 > Bac pour remettre la puce à la fin de l'exposition
 
@@ -140,9 +140,9 @@ Ce que j’ai moins aimé, c’est que les installations étaient souvent simila
 
 ## Références
 
-Les photos ont été prises par moi-même (Thomas Bozelko) et Anne-julie Labrie.
-Site web de l'exposition : https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique
+Les photos ont été prises par moi-même (Thomas Bozelko) et Anne-julie Labrie.  
+Site web de l'exposition : https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique  
 
-![](media/.jpg)
+![Crédits](media/cartel_credit_exposition.jpg)
 
 > Cartel des crédits de l'exposition
