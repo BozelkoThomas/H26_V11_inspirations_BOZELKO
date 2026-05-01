@@ -66,7 +66,7 @@ Le dispositif repose sur plusieurs types d’interactions physiques réparties e
 
 > À gauche : Erlenmeyer équipé d’un accéléromètre permettant de détecter l'orientation et de faire couler le liquide dans le jeu. À droite : molette rotative utilisée pour contrôler la température de la potion.
 
-![Station 3 et 4](media/station_boutons_manivelle.jpg)
+![Station 3 et 4](media/station_bouton_manivelle.jpg)
 
 > À gauche : boutons de couleur permettant d’ajouter des poudres dans la potion. À droite : manivelle permettant de mélanger la potion en contrôlant un mouvement selon les axes X et Y.
 
@@ -82,7 +82,7 @@ La mise en exposition nécessite un projecteur, une surface de projection blanch
 
 > Projecteur utilisé pour afficher l'écran du jeu
 
-![Éclairage et haut-parleurs](media/eclairage_hautparleurs_symbiose.jpg)
+![Éclairage et haut-parleurs](media/eclairage_haut-parleur_symbiose.jpg)
 
 > Éclairage ambiant et haut-parleurs pour l'installation
 
@@ -104,6 +104,6 @@ Ce que j’ai moins aimé, c’est que les instructions n’étaient pas toujour
 
 ## Références
 
-Les photos ont été prises par moi-même (Thomas Bozelko) et Anne-Julie Labrie.
-Site web de l'exposition :  [Réseau vivant](https://tim-montmorency.com/2026/)
+Les photos ont été prises par moi-même (Thomas Bozelko) et Anne-Julie Labrie.  
+Site web de l'exposition :  [Réseau vivant](https://tim-montmorency.com/2026/)  
 Site web du dispositif :  [Symbiose_Github](https://les-chimistes.github.io/symbiose/#/)
