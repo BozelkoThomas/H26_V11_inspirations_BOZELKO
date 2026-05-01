@@ -52,9 +52,9 @@ Le dispositif est situé directement à gauche en entrant dans le studio TIM, ce
 
 > Croquis du dispositif vu de face
 
-![Croquis de haut](media/croquis_vue_haut_symbiose.jpg)
+![Croquis de haut](media/croquis_vue_haut_symbiose_github.jpg)
 
-> Croquis du dispositif dans le studio vu de haut
+> Croquis du dispositif dans le studio vu de haut (Source : [Symbiose_Github](https://les-chimistes.github.io/symbiose/technique/2d_plan.webp))
 
 
 
