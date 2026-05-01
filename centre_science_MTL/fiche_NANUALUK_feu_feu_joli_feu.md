@@ -53,13 +53,13 @@ Le dispositif a pour fonction d’enseigner la culture inuit de manière ludique
 
 Le dispositif est situé dans le coin supérieur gauche de l’espace, soit à l’opposé de l’entrée, qui se trouve dans le coin inférieur droit. Il est donc généralement expérimenté vers la fin du parcours, après avoir exploré les autres installations.
 
-![](media/.jpg)
+![Croquis de l'écran tactile](media/croquis_ecran_tactile.jpg)
 
-> Croquis du dispositif vu de côté
+> Croquis de l'écran tactile
 
-![](media/.jpg)
+![Croquis du feu artificiel](media/croquis_feu_artificiel.jpg)
 
-> Croquis du dispositif vu de haut
+> Croquis du feu artificiel
 
 
 ### Composantes et techniques
