@@ -36,11 +36,11 @@ Jeremy Shantz est un artiste multidisciplinaire installé à Montréal. Il trava
 
 Son travail explore souvent les illusions visuelles, les matériaux et la perception.
 
-![Autre œuvre de Jeremy Shantz](media/oeuvre_jeremy_1.jpg)
+![Autre œuvre de Jeremy Shantz](media/oeuvre_jeremy_shantz_1.jpg)
 
 > Exemple d’une autre œuvre réalisée par Jeremy Shantz
 
-![Autre œuvre de Jeremy Shantz](media/oeuvre_jeremy_2.jpg)
+![Autre œuvre de Jeremy Shantz](media/oeuvre_jeremy_shantz_2.jpg)
 
 > Exemple d’une autre œuvre réalisée par Jeremy Shantz
 
@@ -145,5 +145,6 @@ Ce que j'ai moins aimé, c'est que l'éclairage ambiant provoquait des reflets d
 
 # Références
 
-Toutes les photos ont été prises par moi-même (Thomas Bozelko).  
-Carte interactive de Lumino : https://www.luminomtl.com/fr/activites/oeuvres-interieures/entre-maintenant-et-l-infini
+Les photos ont été prises par moi-même (Thomas Bozelko).  
+Carte interactive de Lumino : https://www.luminomtl.com/fr/activites/oeuvres-interieures/entre-maintenant-et-l-infini  
+Images des autres œuvres tirées du site : [Art Public Montréal](https://artpublicmontreal.ca/artiste/shantz-jeremy/)
