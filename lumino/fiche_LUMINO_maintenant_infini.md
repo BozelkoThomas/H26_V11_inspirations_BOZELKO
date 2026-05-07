@@ -1,22 +1,55 @@
 # Lumino - *Entre maintenant et l’infini*
 
-**Exposition temporaire** présentée au **Centre Eaton de Montréal** et visitée le **20 février 2026**.
+**Œuvre présentée au Centre Eaton de Montréal et visitée le 20 février 2026 dans le cadre de l’exposition temporaire Lumino à Montréal.**
+
+![Affiche de l’exposition](media/affiche_lumino.jpg)
+
+> Affiche de l’exposition Lumino
 
 ![Moi devant l’affiche de l’exposition](media/moi_devant_affiche.jpg)
 
 > Moi devant l’affiche de l’exposition
 
-![Entrée du Centre Eaton de Montréal](media/entree_centre_eaton.jpg)
 
-> Entrée du Centre Eaton de Montréal
+## Présentation de l’exposition Lumino
+
+Lumino est une exposition regroupant plusieurs œuvres et installations lumineuses présentées dans différents lieux publics à Montréal.
+
+Les œuvres sont accessibles gratuitement et intégrées directement dans des espaces fréquentés afin de rendre l’art contemporain plus accessible au public.
+
+![Carte interactive des installations de Lumino à Montréal](media/carte_lumino.jpg)
+
+> Carte interactive des installations de Lumino à Montréal
+
+Dans mon cas, l’œuvre était présentée au Centre Eaton de Montréal.
+
+![Vue d’ensemble du lieu d’exposition](media/vue_ensemble.jpg)
+
+> Vue d’ensemble du lieu d’exposition
+
+
+## Présentation de l’artiste
 
 L’œuvre *Entre maintenant et l’infini* a été réalisée par **Jeremy Shantz** et était présentée du **27 novembre 2025** jusqu'au **8 mars 2026**.
 
-![Vue d’ensemble de l’œuvre](media/vue_ensemble_oeuvre.jpg)
+Jeremy Shantz est un artiste multidisciplinaire installé à Montréal. Il travaille notamment avec la peinture, le dessin, la sculpture, le muralisme et la photographie.
 
-> Vue d’ensemble de l’œuvre (l'artiste est à gauche dans la photo)
+Son travail explore souvent les illusions visuelles, les matériaux et la perception.
+
+![Autre œuvre de Jeremy Shantz](media/oeuvre_jeremy_1.jpg)
+
+> Exemple d’une autre œuvre réalisée par Jeremy Shantz
+
+![Autre œuvre de Jeremy Shantz](media/oeuvre_jeremy_2.jpg)
+
+> Exemple d’une autre œuvre réalisée par Jeremy Shantz
+
 
 ## Description de l’œuvre
+
+![Vue d’ensemble de l’œuvre](media/vue_ensemble_oeuvre.jpg)
+
+> Vue d’ensemble de l’œuvre
 
 *Entre maintenant et l’infini* est une installation lumineuse qui joue avec les reflets pour créer une illusion d’infini.
 
@@ -30,13 +63,6 @@ De l’autre côté, une statue d’enfant bleu, sans tête, avec les mains et l
 
 > Cartel de l’œuvre
 
-## Type d’installation
-
-C’est une installation immersive qui joue avec la perception visuelle du spectateur. Elle combine des miroirs, vitres semi-réfléchissantes, lumière DEL et sculptures afin de créer une illusion d’infini.
-
-![Vue d’ensemble du lieu d’exposition](media/vue_ensemble.jpg)
-
-> Vue d’ensemble du lieu d’exposition
 
 ## Mise en espace
 
@@ -49,6 +75,7 @@ L’œuvre est installée près d’une des entrées du Centre Eaton. Cet emplac
 ![Croquis de l’œuvre vu de côté](media/croquis_vue_cote.jpg)
 
 > Croquis de l’œuvre vu de côté
+
 
 ## Composantes et techniques
 
@@ -84,6 +111,7 @@ Les lumières sont alimentées par des câbles qui passent dans le sol, cachés 
 
 > Câbles entre les structures
 
+
 ## Éléments nécéssaires à la mise en exposition
 
 L'installation nécessite :
@@ -102,9 +130,6 @@ L'installation nécessite :
 
 > Barrière autour de l'œuvre
 
-![Affiche de l'exposition](media/affiche_lumino.jpg)
-
-> Affiche de l'exposition
 
 ## Expérience vécue
 
@@ -121,4 +146,4 @@ Ce que j'ai moins aimé, c'est que l'éclairage ambiant provoquait des reflets d
 # Références
 
 Toutes les photos ont été prises par moi-même (Thomas Bozelko).  
-Site web de l'exposition : https://www.luminomtl.com/fr/activites/oeuvres-interieures/entre-maintenant-et-l-infini
+Carte interactive de Lumino : https://www.luminomtl.com/fr/activites/oeuvres-interieures/entre-maintenant-et-l-infini
